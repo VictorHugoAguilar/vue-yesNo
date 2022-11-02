@@ -1,2 +1,19 @@
-# vue-yesNo
-Vue application that helps make decisions when they are not clear
+# 01-first-component
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
