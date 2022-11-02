@@ -1,4 +1,4 @@
-# 01-first-component
+# Vue-App-YesNo
 
 ## Project setup
 ```
